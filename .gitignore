@@ -1,0 +1,8 @@
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
