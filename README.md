@@ -41,3 +41,6 @@ An interactive E-Commerce Business Intelligence Dashboard developed using Micros
 
 ## Data Privacy
 Ensure the workbook does not contain confidential business information or personal customer data before sharing it publicly.
+## Dashboard Preview
+
+![E-Commerce Business Intelligence Dashboard](screenshots/dashboard-preview.png)
