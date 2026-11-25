@@ -31,3 +31,10 @@ The Matplotlib dashboard shows ₹111.37 million in recorded net sales across al
 - Maharashtra led all states with ₹20.3 million in recorded net sales, followed by Uttar Pradesh at ₹19.4 million.
 - The Consumer segment accounted for 1,187 of 2,000 orders (59.4%).
 - Of all orders, 65.7% were delivered, 17.5% were returned, and 16.8% were cancelled.
+
+## Run the Python notebook
+
+1. Download the repository. The `Python Matplotlib` folder contains the notebook and the [MySQL database export](./Python%20Matplotlib/ecommerce_database.sql).
+2. In MySQL Workbench, open **Server → Data Import**, select **Import from Self-Contained File**, choose `ecommerce_database.sql`, and click **Start Import**.
+3. Open the `.ipynb` file in Jupyter. The connection cell uses `localhost`, port `3306`, and the database `e_commerce_business_intelligence_platform_v4`. Update the MySQL username if yours differs from `root`.
+4. Run the cells in order and enter your own MySQL password when prompted.
