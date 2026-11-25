@@ -10,6 +10,10 @@ We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce 
 
 ![Matplotlib dashboard showing e-commerce sales, customers, products, and profitability](./Python%20Matplotlib/E_Commerce_Matplotlib_Dashboard.png)
 
+## Excel Dashboard Preview
+
+![Excel dashboard showing sales, customers, products, and profitability](./Excel/Final.png)
+
 ## Explore the project
 
 | Version | What you can explore |
