@@ -25,3 +25,9 @@ We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce 
 ## Reading the sales figures
 
 The Matplotlib dashboard shows ₹111.37 million in recorded net sales across all order statuses. The Power BI Delivered Sales card shows ₹72.27 million for delivered orders only. The order status filter explains the difference.
+
+## Key Findings
+
+- Maharashtra led all states with ₹20.3 million in recorded net sales, followed by Uttar Pradesh at ₹19.4 million.
+- The Consumer segment accounted for 1,187 of 2,000 orders (59.4%).
+- Of all orders, 65.7% were delivered, 17.5% were returned, and 16.8% were cancelled.
