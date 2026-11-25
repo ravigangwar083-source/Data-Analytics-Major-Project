@@ -4,7 +4,7 @@ We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce 
 
 ## Power BI Dashboard Preview
 
-![Power BI Home dashboard](Power-BI/Screenshots/Home.png)
+![Power BI Home dashboard](./Power%20BI/Screenshots/Home.png)
 
 ## Explore the project
 
