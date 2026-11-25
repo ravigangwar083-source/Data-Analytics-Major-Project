@@ -10,9 +10,9 @@ We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce 
 
 | Version | What you can explore |
 |---|---|
-| Excel | Four dashboards cover sales, customers, products, and profitability. The final dashboard brings them together. |
-| Matplotlib | A single dashboard with 11 charts shows monthly sales and profit, top products, order status, and margins by sales channel. |
-| Power BI | The Home page gives an overview. Four interactive pages let you explore each area using filters and rankings. The Insights page explains the figures and highlights key findings. |
+| [Excel](./Excel/) | Four dashboards cover sales, customers, products, and profitability. The final dashboard brings them together. |
+| [Matplotlib](./Matplotlib/) | A single dashboard with 11 charts shows monthly sales and profit, top products, order status, and margins by sales channel. |
+| [Power BI](./Power-BI/) | The Home page gives an overview. Four interactive pages let you explore each area using filters and rankings. The Insights page explains the figures and highlights key findings. |
 
 ## Reading the sales figures
 
